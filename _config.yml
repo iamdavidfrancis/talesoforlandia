@@ -17,7 +17,7 @@ title: Tales of Orlandia
 email: webmaster@talesoforlandia.com
 description: All of the information from previous Tales of Orlandias.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.talesoforlandia.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://talesoforlandia.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TalesOfOrlandia
 # github_username:  iamdavidfrancis
 
