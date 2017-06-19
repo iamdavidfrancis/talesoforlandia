@@ -1,5 +1,5 @@
 ---
 layout: page
 title: About
-permalink: /about/
+subtitle: Everything you might want to know about Orlandia
 ---

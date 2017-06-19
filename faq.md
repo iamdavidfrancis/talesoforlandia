@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FAQ
-permalink: /faq/
+subtitle: Tales of Orlandia Frequently Asked Questions
 ---
 
 # What is Tales of Orlandia?
