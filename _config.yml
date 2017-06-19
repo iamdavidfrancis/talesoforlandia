@@ -1,31 +1,160 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+# --- General options --- #
+url: "http://talesoforlandia.com"
+baseurl: ""
 
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Tales of Orlandia
-email: webmaster@talesoforlandia.com
-description: All of the information from previous Tales of Orlandias.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://talesoforlandia.com" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: TalesOfOrlandia
-# github_username:  iamdavidfrancis
+title: "Tales of Orlandia"
+description: "A brief history of the Orlandia story thus far"
 
-# Build settings
+# --- Navigation bar options --- #
+navbar-links:
+  About: "about"
+  Orlandia History:
+    - Swords of Orlandia: "history/swords"
+    - Skies of Orlandia: "history/skies"
+    - Conquerors of Neo-Orlandia: "history/neo"
+    - Wyldes of Orlandia: "history/wyldes"
+    - Rocket Rangers of Orlandia: "history/rocket"
+    - Curse of the White Witch: "history/witch"
+    - Crisis on Infinite Orlandias: "history/crisis"
+    - School Spirits: "history/spirits"
+  AFO Home: "http://www.animefestivalorlando.com"
+
+avatar: "/img/avatar-icon.png"
+
+# --- Footer options --- #
+author:
+  name: Anime Festival Orlando
+  email: "webmaster@talesoforlandia.com"
+  facebook: CodexOrlandia
+  twitter: TalesOfOrlandia
+
+footer-links-active:
+  rss: true
+  facebook: true
+  email: true
+  twitter: true
+
+share-links-active:
+  twitter: true
+  facebook: true
+  email: true
+
+url-pretty: "TalesOfOrlandia.com"
+
+# --- Misc --- #
+# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
+#disqus: ""
+
+# Fill in your Google Analytics ID to track your website using GA
+google_analytics: "UA-101259382-1"
+
+# Google Tag Manager ID
+#gtm: ""
+
+# Facebook App ID
+# fb_app_id: ""
+
+# Excerpt Word Length
+# Truncates the excerpt to the specified number of words on the index page
+excerpt_length: 50
+
+# Character used to separate site title and description in HTML document title
+# and RSS feed title
+title-separator: "-"
+
+
+# --- Don't need to touch anything below here (but you can if you want) --- #
+timezone: "America/New_York"
 markdown: kramdown
-theme: minima
-gems:
-  - jekyll-feed
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+      show-avatar: true
+
+# Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
+link-tags: false
+
+# Exclude these files from production site
 exclude:
+  - CHANGELOG.md
+  - CNAME
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
+  - LICENSE
+  - README.md
+  - Vagrantfile
+
+# prose.io config
+prose:
+  rooturl: '_posts'
+  media: 'img'
+  ignore:
+    - 404.html
+    - LICENSE
+    - feed.xml
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - /css
+    - /img
+    - /js
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Post title"
+          placeholder: "Title"
+          alterable: true
+      - name: "subtitle"
+        field:
+          element: "textarea"
+          label: "Subtitle"
+          placeholder: "A description of your post."
+          alterable: true
+      - name: "date"
+        field:
+          element: "text"
+          label: "Date"
+          help: "Enter date of post."
+          placeholder: "yyyy-mm-dd"
+          alterable: true
+      - name: "image"
+        field:
+          element: "text"
+          label: "Image"
+          help: "Add a thumbnail image to your post."
+          placeholder: "Thumbnail"
+          alterable: true
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Publish"
+          help: "Check to publish post, uncheck to hide."
+
+gems:
+  - jekyll-paginate
