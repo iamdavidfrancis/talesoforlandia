@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Conquerors of Neo-Orlandia
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/neo-logo.png
 meta-description: Three factions of Neo-Orlandia are battling each other for territory and resources and it will be up to the citizens of Neo-Orlandia to band together and play for the faction they wish to give support to in order to shape a new chapter in the saga of Orlandia!
 ---
 
