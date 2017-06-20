@@ -7,6 +7,9 @@ subtitle: Throne Into Chaos
 {:.text-center}
 ![Swords of Orlandia: Throne Into Chaos Logo][swords-2-logo]
 
+{:.text-muted.text-center}
+*Illustration by Damon Dykes ([http://damondrawsart.com](http://damondrawsart.com))*
+
 A continuation of the story and setting from [Swords of Orlandia (2007)](/history/swords), Swords of Orlandia 2: Throne Into Chaos once again dealt with the royal family of Orlandia. A recap of the story was provided the following year to help launch [Swords of Orlandia III: The Khaz'Radan Prophecy](/history/swords-3). It is provided below.
 
 # Characters
