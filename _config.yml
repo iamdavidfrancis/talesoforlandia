@@ -10,6 +10,8 @@ navbar-links:
   About: "about"
   Orlandia History:
     - Swords of Orlandia: "history/swords"
+    - Swords of Orlandia II: "history/swords-2"
+    - Swords of Orlandia III: "history/swords-3"
     - Skies of Orlandia: "history/skies"
     - Conquerors of Neo-Orlandia: "history/neo"
     - Wyldes of Orlandia: "history/wyldes"
