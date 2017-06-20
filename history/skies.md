@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Skies of Orlandia
+meta-description: Following Swords of Orlandia 3, new technology brought the kingdom of Orlandia to the air!
 ---
 
 {:.text-center}

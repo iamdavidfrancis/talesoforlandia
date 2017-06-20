@@ -2,6 +2,7 @@
 layout: page
 title: Swords of Orlandia III
 subtitle: The Khaz'Radan Prophecy 
+meta-description: The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Interactive Convention Experience (ICE) for Anime Festival Orlando 2009
 ---
 
 

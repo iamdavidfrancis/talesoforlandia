@@ -2,6 +2,7 @@
 layout: page
 title: Swords of Orlandia II
 subtitle: Throne Into Chaos
+meta-description: "A continuation of the story and setting from Swords of Orlandia (2007), Swords of Orlandia 2: Throne Into Chaos once again dealt with the royal family of Orlandia."
 ---
 
 {:.text-center}
