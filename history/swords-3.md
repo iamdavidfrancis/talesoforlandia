@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Swords of Orlandia
+title: Swords of Orlandia III
 subtitle: The Khaz'Radan Prophecy 
 ---
 
