@@ -2,6 +2,7 @@
 layout: page
 title: Wyldes of Orlandia
 meta-description: "Two factions are battling for control of the Wyldewoods, a resource rich piece of land: NuHelix, who wants to use the natural resources of the Wyldewood, and The Wyldewood Preservation Society, who want to protect the creatures who live there."
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/wyldes-logo.jpg
 cards:
   - name: Full Orlandia Spread
     url: full-spread.png
