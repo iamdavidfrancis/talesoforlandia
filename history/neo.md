@@ -25,25 +25,31 @@ Octantis was not just satisfied with Neo-Orlandia; she desired more. However, un
 
 # Factions
 
+{:.col-md-12}
 ## The Order of Neo-Orlandia 
 
-{:.text-center}
+{:.text-center.col-md-3.col-sm-12}
 ![The Order Logo][order]
 
+{:.col-md-9.col-sm-12}
 The proud, mighty force that upholds order in Neo-Orlandia, by any means necessary. The Order is stronger than any other power in the world, and with Queen Sigma Octantis at the helm, it is unlikely that they will falter any time soon. Their methods are controversial and those who do not enjoy the prestige of Neo-Orlandia’s upper crust have felt that Octantis and her empire have only thrived through nefarious means.
 
+{:.col-md-12}
 ## POLARIS 
 
-{:.text-center}
+{:.text-center.col-md-3.col-sm-12}
 ![POLARIS Logo][polaris]
 
+{:.col-md-9.col-sm-12}
 Citizens of Neo-Orlandia that feel disenfranchised and even oppressed by Queen Octantis’ ambition to rebuild Orlandia to her devices. They have recently banded together to end her reign of what they have declared tyranny. Not much is known about the POLARIS resistance other than they report to their elusive leader, known only as "Sweet Red Vinyl." Through their attacks on both The Order’s structures and their cyber network, POLARIS has been branded as a terrorist group.
 
+{:.col-md-12}
 ## The Jesters 
 
-{:.text-center}
+{:.text-center.col-md-3.col-sm-12}
 ![The Jesters Logo][jesters]
 
+{:.col-md-9.col-sm-12}
 They are the wild card in this struggle for Neo-Orlandia. They do not wish to rule Neo-Orlandia; instead they anticipate its destruction. Remnants from all the bandits and thugs that Octantis defeated in battle, they have all gathered as a single faction hell-bent on destroying everything she has built as a form of mockery. The Jesters are led by the Bandit King, a psychopath whose lust for bloodshed has drawn every murderer of the wasteland together for one final battle.
 
 
