@@ -30,12 +30,16 @@ author:
   email: "webmaster@talesoforlandia.com"
   facebook: CodexOrlandia
   twitter: TalesOfOrlandia
+  youtube: channel/UCg-REAtGdrNEB-wktjCSJiA
+  google-plus: 109127530705583197939
 
 footer-links-active:
   rss: true
   facebook: true
   email: true
   twitter: true
+  youtube: true
+  google-plus: true
 
 share-links-active:
   twitter: true
