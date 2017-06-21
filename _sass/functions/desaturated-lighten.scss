@@ -1,0 +1,7 @@
+@function desaturated-lighten(
+  $color,
+  $desaturation-percentage: 40%,
+  $lighten-percentage: 20%
+) {
+  @return lighten(desaturate($color, $desaturation-percentage), $lighten-percentage);
+}

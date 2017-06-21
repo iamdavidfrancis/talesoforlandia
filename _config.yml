@@ -8,6 +8,7 @@ description: "A brief history of the Orlandia story thus far"
 # --- Navigation bar options --- #
 navbar-links:
   About: "about"
+  Timeline: "timeline"
   Orlandia History:
     - Swords of Orlandia: "history/swords"
     - Swords of Orlandia II: "history/swords-2"
@@ -16,6 +17,7 @@ navbar-links:
     - Conquerors of Neo-Orlandia: "history/neo"
     - Wyldes of Orlandia: "history/wyldes"
     - Rocket Rangers of Orlandia: "history/rocket"
+    - Rocket Rangers of Orlandia II: "history/rocket-2"
     - Curse of the White Witch: "history/witch"
     - Crisis on Infinite Orlandias: "history/crisis"
     - School Spirits: "history/spirits"
@@ -165,3 +167,7 @@ prose:
 
 gems:
   - jekyll-paginate
+
+sass:
+  sass_dir: _sass
+  style: compressed
