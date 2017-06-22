@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Tales Of Orlandia"
 date:   2017-06-18 10:34:54 -0700
-tags: update meta
+tags: updates
 author: David Francis
 ---
 
