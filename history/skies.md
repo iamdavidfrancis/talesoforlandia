@@ -12,15 +12,21 @@ Following [Swords of Orlandia 3](/history/swords-3), new technology brought the 
 
 # Factions
 
-## Orlandia Sky Defense Force (OSDF)
+<div class="row">
+  <div class="col-md-12">
+    <h2>Orlandia Sky Defense Force (OSDF)</h2>
 
-{:.text-center.col-md-3.col-sm-12}
-![OSDF Logo](http://statics.orlandia.talesoforlandia.com/past-orlandias/skies/osdf-logo.png) 
-
-The members of the OSDF are charged with the defense of the country of Orlandia. The premier pilots and aerologists in the world serve Air Marshall Igor Kerensky. Air Marshall Kerensky has been leading the fight to keep Orlandia safe from pirate predations for the last 30 years. His flagship, the Orlandian Warbringer “Crown of Orlandia,” was stolen just before completion 12 years ago by pirates.
-
-Since then, he has created the most advanced and fearsome military the world has ever known. His loyal “Air Knights” fight to keep safe the skies of Orlandia.
-
+    <div class="text-center col-md-3 col-sm-12">
+      <img src="http://statics.orlandia.talesoforlandia.com/past-orlandias/skies/osdf-logo.png">
+    </div>
+    <p>
+      The members of the OSDF are charged with the defense of the country of Orlandia. The premier pilots and aerologists in the world serve Air Marshall Igor Kerensky. Air Marshall Kerensky has been leading the fight to keep Orlandia safe from pirate predations for the last 30 years. His flagship, the Orlandian Warbringer “Crown of Orlandia,” was stolen just before completion 12 years ago by pirates.
+    </p>
+    <p>
+      Since then, he has created the most advanced and fearsome military the world has ever known. His loyal “Air Knights” fight to keep safe the skies of Orlandia.
+    </p>
+  </div>
+</div>
 ## Benevolent Order of Stone Mages (The Order)
 
 {:.text-center.col-md-3.col-sm-12}
