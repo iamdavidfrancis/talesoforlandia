@@ -10,6 +10,13 @@ meta-description: It is the end of time as we know it and history itself appears
 {:.clearfix}
 It is the end of time as we know it and history itself appears to be at stake. Portals throughout history are opening and people from out of time are coming through. Teams Earthquake and Lightning must figure out how to defeat the evil Porphyrion and restore people to their own times.
 
+<a name="factions"></a>
+
+**Skip ahead to**:
+[Factions](#factions) &bull;
+[Back Story](#back-story) &bull;
+[Main Story](#main-story)  
+
 # The Factions
 
 ## Earthquake
@@ -23,6 +30,12 @@ TODO: Describe faction
 # Story
 
 Crisis on Infinite Orlandias was the first year that back story posts were published on the AFO website. They are included below. The main story from the event can be found after the back story posts or you can skip straight to the main story by clicking [here](#main-story).
+
+<a name="back-story"></a>
+**Jump to**:
+[Factions](#factions) &bull;
+[Back Story](#back-story) &bull;
+[Main Story](#main-story)  
 
 ## Back Story
 
@@ -455,6 +468,12 @@ When it was gone, he stood for a few minutes breathing heavily. Only silence met
 <hr class="clearfix" />
 
 <a name="main-story"></a>
+
+**Jump to**:
+[Factions](#factions) &bull;
+[Back Story](#back-story) &bull;
+[Main Story](#main-story)  
+
 ## Main Story
 
 TODO: Add main story
