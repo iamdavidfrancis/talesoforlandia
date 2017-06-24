@@ -3,6 +3,7 @@ layout: post
 title:  "Time of Skies"
 date:   2016-03-01 09:00:00 -0500
 author: Dimitri Kopansky
+meta-description: Typically, air raids had a death count in single digits. If too many die, the cargo crashes to the ground, far below, and is destroyed. It’s just bad business. Yet, in the first violent moments...
 ---
 
 Typically, air raids had a death count in single digits. If too many die, the cargo crashes to the ground, far below, and is destroyed. It’s just bad business. Yet, in the first violent moments of the attack, three enemy ships were sent plummeting.

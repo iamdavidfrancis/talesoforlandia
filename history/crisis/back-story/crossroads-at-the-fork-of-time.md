@@ -3,6 +3,7 @@ layout: post
 title:  "Crossroads at the Fork of Time"
 date:   2016-07-01 09:00:00 -0500
 author: Andy Emmerson
+meta-description: The fifth time being exploded back into a wall was the final straw for Patroclus. And possibly for his back. Which ached increasingly as he pulled himself back up, fixing his askew glasses...
 ---
 
 The fifth time being exploded back into a wall was the final straw for Patroclus. And possibly for his back. Which ached increasingly as he pulled himself back up, fixing his askew glasses and dusting off his lab coat. A sigh left his lips and both hands went to his head. He stared forward at the machine that had caused all of the explosions.

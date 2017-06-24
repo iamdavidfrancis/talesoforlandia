@@ -3,6 +3,7 @@ layout: post
 title:  "Time of Gods"
 date:   2016-02-01 09:00:00 -0500
 author: Andy Emmerson
+meta-description: “Damn Hippies!” Came the thunderous voice breaking the silence inside the office. Its source, the NuHelix CEO, sat hunched in his chair, hands clenched and eyes bulging. Anger boiled...
 ---
 
 "Damn Hippies!" Came the thunderous voice breaking the silence inside the office. Its source, the NuHelix CEO, sat hunched in his chair, hands clenched and eyes bulging. Anger boiled over and spewed out of him.

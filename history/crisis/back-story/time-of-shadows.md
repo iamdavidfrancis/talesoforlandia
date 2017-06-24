@@ -3,6 +3,7 @@ layout: post
 title:  "Time of Shadows"
 date:   2016-06-01 09:00:00 -0500
 author: Andy Emmerson
+meta-description: When the brutal, burning stopped and Ross was thrown to the ground, he entertained the thought that he might have actually died. Being sucked into a black hole wasn’t exactly something...
 ---
 
 {:left-image: .text-center.col-md-3.col-sm-12 }

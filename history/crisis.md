@@ -133,15 +133,5 @@ TODO: Add main story
 
 
 [crisis-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
-[skullcrab]: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg
-[portal]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal.png
-[portal-2]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal-2.png
-[captain]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/captain.png
-[polaris]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris.jpg
-[jesters]: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/jesters.png
-[castle]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle.png
-[ross]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/ross.png
-[intanger]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger.jpg
-[patroclus]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/patroclus.jpg
 [earthquake]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png
 [lightning]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png
