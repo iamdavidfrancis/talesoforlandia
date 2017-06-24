@@ -47,7 +47,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
         <p class="card-subtitle">
           "I'm tellin' ya, I saw some serious stuff down the hallway," Aono told his friend. Aono stood taller, looking over the head of Mizore and into the long hallway he had...
         </p>
-        <a href="no-one-answered" class="btn btn-primary card-link">Read More</a>
+        <a href="back-story/no-one-answered" class="btn btn-primary card-link">Read More</a>
       </div>
     </div>
   </div>
@@ -60,7 +60,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
         <p class="card-subtitle">
           The door shut behind Yuzuru, creating the smallest echo of noise in the deserted hallway, followed by a small sigh of relief. Spending all afternoon and night studying...
         </p>
-        <a href="no-one-witnessed" class="btn btn-primary card-link">Read More</a>
+        <a href="back-story/no-one-witnessed" class="btn btn-primary card-link">Read More</a>
       </div>
     </div>
   </div>
@@ -73,7 +73,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
         <p class="card-subtitle">
           Another day at Yamata high and another day Ria spent waiting for, well, anything. The redhead sat underneath a tree on the grounds, watching two groups of kids bickering...
         </p>
-        <a href="no-one-knew" class="btn btn-primary card-link">Read More</a>
+        <a href="back-story/no-one-knew" class="btn btn-primary card-link">Read More</a>
       </div>
     </div>
   </div>
