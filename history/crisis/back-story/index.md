@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Crisis Back Story
+title: Crisis Backstory
 share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
   - "/css/card.css"
 ---
 
-Crisis on Infinite Orlandias was the first year that back story posts were published on the AFO website. Copies of the original posts are linked below. 
+Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below. 
 
 <div class="row" >
   <div class="col-md-4 col-sm-12">

@@ -39,9 +39,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 
 # Story
 
-Crisis on Infinite Orlandias was the first year that back story posts were published on the AFO website. Copies of the original posts are linked below. 
+Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below. 
 
-## Back Story
+## Backstory
 
 <div class="row" >
   <div class="col-md-4 col-sm-12">
