@@ -2,6 +2,7 @@
 layout: page
 title: School Spirits
 meta-description: Two social clubs compete for the best hangout spots at school. Little do they know the school is not all it appears to be.
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
 css:
   - "/css/card.css"
 ---
