@@ -42,6 +42,7 @@ Crisis on Infinite Orlandias was the first year that back story posts were publi
 
 ## Back Story
 
+<div class="row" >
 <div class="col-md-4 col-sm-12">
   <div class="card">
     <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
@@ -118,6 +119,7 @@ Crisis on Infinite Orlandias was the first year that back story posts were publi
       <a href="back-story/crossroads-at-the-fork-of-time" class="btn btn-primary card-link">Read More</a>
     </div>
   </div>
+</div>
 </div>
 
 ---
