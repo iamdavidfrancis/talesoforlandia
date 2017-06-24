@@ -120,13 +120,6 @@ Crisis on Infinite Orlandias was the first year that back story posts were publi
   </div>
 </div>
 
-
-[Time of Swords](back-story/time-of-swords)
-
-[Time of Shadows](back-story/time-of-shadows)
-
-[Crossroads at the Fork of Time](back-story/crossroads-at-the-fork-of-time)
-
 ---
 
 ## Main Story
