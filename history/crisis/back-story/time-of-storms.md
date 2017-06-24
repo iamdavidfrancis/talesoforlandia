@@ -4,6 +4,7 @@ title:  "Time of Storms"
 date:   2016-04-01 09:00:00 -0500
 author: Andy Emmerson
 meta-description: An explosion swept across the desert with incredible speed. Thankfully, the cave that Zenner sat in was positioned away from the oncoming shock wave. All she heard was the detonation...
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris.jpg
 ---
 
 {:left-image: .text-center.col-md-3.col-sm-12 }
