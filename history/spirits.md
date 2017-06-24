@@ -8,6 +8,7 @@ css:
 ---
 
 
+
 # The Factions
 
 {:.col-md-12}
@@ -84,6 +85,31 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 ## Main Story
 
 TODO: Add main story
+
+---
+
+# Gameplay
+
+## Game Overview
+
+The game follows the two social clubs competing for control of eight rooms at the school. Players battled each other and NPCs in games of *Warriors of Orlandia*, completed Quests, defeated Encounters, and completed challenges set by NPCs. All while trying to stop the ghosts from picking off all the players. Winning meant earning experience, which was used to control rooms, but as time went on their value diminished. If players stopped contributing to the rooms, eventually the ghosts would take over again.  Players were able to earn cards from the 2017 set of *Warriors of Orlandia* cards.
+
+The rooms that the players were competing for were:
+1. School Dojo
+2. Science Classroom
+3. Music Room
+4. 3-A Classroom
+5. 2-C Classroom
+6. Gym
+7. Nurse's Room
+8. Library
+
+## Results
+
+After a weekend of close competition, with Dorenchi and Moyosu neck and neck almost the entire time, Dorenchi managed to pull ahead on Sunday and ended up defeating Moyosu. The final results were:
+
+**Dorenchi**: 8936 Points   
+**Moyosu**: 4161 Points
 
 [dorenchi]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/dorenchi.png
 [moyosu]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/moyosu.png
