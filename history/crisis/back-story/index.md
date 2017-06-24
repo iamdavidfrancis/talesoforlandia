@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Crisis Back Story
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
   - "/css/card.css"
 ---

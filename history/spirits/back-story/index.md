@@ -1,6 +1,7 @@
 ---
 layout: page
 title: School Spirits Back Story
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
 css:
   - "/css/card.css"
 ---
