@@ -2,6 +2,7 @@
 layout: page
 title: Crisis on Infinite Orlandias
 meta-description: It is the end of time as we know it and history itself appears to be at stake. 
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
   - "/css/card.css"
 ---
