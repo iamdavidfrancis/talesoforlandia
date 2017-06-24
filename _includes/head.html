@@ -106,6 +106,8 @@
   <meta property="og:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta property="og:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% elsif site.avatar-ext %}
+  <meta property="og:image" content="{{ site.avatar-ext }}" />
   {% endif %}
 
   <!-- Twitter summary cards -->
@@ -133,5 +135,7 @@
   <meta name="twitter:image" content="{{ page.share-img }}" />
   {% elsif site.avatar %}
   <meta name="twitter:image" content="{{ site.url }}{{ site.avatar }}" />
+  {% elsif site.avatar-ext %}
+  <meta property="twitter:image" content="{{ site.avatar-ext }}" />
   {% endif %}
 </head>
