@@ -689,3 +689,7 @@ td.gutter {
 .media-body p {
     margin-top: 0;
 }
+
+.top-links .top-link:not(:last-child)::after {
+  content: " | ";
+}

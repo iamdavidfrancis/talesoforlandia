@@ -1,0 +1,93 @@
+[
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Armor of Fangs",
+    "card-type": "Armor",
+    "url": "armor-of-fangs"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Beach Combat Armor",
+    "card-type": "Armor",
+    "url": "beach-combat-armor"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Bramble Whisperer",
+    "card-type": "Armor",
+    "url": "bramble-whisperer"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Circlet of the Sky",
+    "card-type": "Armor",
+    "url": "circlet-of-the-sky"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Foresight Eyepatch",
+    "card-type": "Armor",
+    "url": "foresight-eyepatch"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Greaves of the Denmother",
+    "card-type": "Armor",
+    "url": "greaves-of-the-denmother"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Guardian Gauntlet",
+    "card-type": "Armor",
+    "url": "guardian-gauntlet"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Kasabake",
+    "card-type": "Armor",
+    "url": "kasabake"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Reinforced Legplates",
+    "card-type": "Armor",
+    "url": "reinforced-legplates"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Sandals of Fast Moving",
+    "card-type": "Armor",
+    "url": "sandals-of-fast-moving"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Sturdy Buckler",
+    "card-type": "Armor",
+    "url": "sturdy-buckler"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Warrior",
+    "card-type": "Warrior",
+    "url": ""
+  },
+  {
+    "set": "2016",
+    "doubleSided": true,
+    "name": "Test",
+    "card-type": "Augment",
+    "url": ""
+  }
+]
