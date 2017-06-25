@@ -119,7 +119,6 @@ After a weekend of close competition, with Dorenchi and Moyosu neck and neck alm
 Players were able to earn Commendations for completing certain actions. This is the list of Commendations that were available:
 
 <div class="row">
-
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
