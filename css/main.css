@@ -685,3 +685,7 @@ td.gutter {
   float: none;
   clear: both;
 }
+
+.media-body p {
+    margin-top: 0;
+}

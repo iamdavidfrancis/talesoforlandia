@@ -113,3 +113,239 @@ After a weekend of close competition, with Dorenchi and Moyosu neck and neck alm
 
 [dorenchi]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/dorenchi.png
 [moyosu]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/moyosu.png
+
+## Commendations
+
+Players were able to earn Commendations for completing certain actions. This is the list of Commendations that were available:
+
+<div class="row">
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" height="60" alt="History Final" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">History Final</h4>
+        <p>
+          Complete the History Quiz
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" height="60" alt="Defense" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Defense</h4>
+        <p>
+          Defeat one encounter
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" height="60" alt="Offense" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Offense</h4>
+        <p>
+          Defeat three encounters
+        </p>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" height="60" alt="Star Athlete" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Star Athlete</h4>
+        <p>
+          Collect all "Warrior" cards
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" height="60" alt="Class Rep" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Class Rep</h4>
+        <p>
+          Collect all "Augment" cards
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" height="60" alt="Salutatorian" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Salutatorian</h4>
+        <p>
+          Collect all Warriors of Orlandia cards
+        </p>
+        </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" height="60" alt="Defeat Your Rival" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Defeat Your Rival</h4>
+        <p>
+          Defeat leader of the opposing faction on Hard
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" height="60" alt="Late Draft Pick" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Late Draft Pick</h4>
+        <p>
+          Collect all Tier 1 cards
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" height="60" alt="2nd Round Draft" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">2nd Round Draft</h4>
+        <p>
+          Collect all Tier 2 cards
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" height="60" alt="1st Round Draft" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">1st Round Draft</h4>
+        <p>
+          Collect all Tier 3 cards
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" height="60" alt="Firestarter" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Firestarter</h4>
+        <p>
+          Collect all Tier 4 Moyosu cards
+        </p>
+        </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" height="60" alt="Waverider" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Waverider</h4>
+        <p>
+          Collect all Tier 4 Dorenchi cards
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" height="60" alt="MVP" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">MVP</h4>
+        <p>
+          Collect all Tier 5 cards
+        </p>
+      </div>
+    </div>
+  </div>
+
+  <div class="col-md-4 col-sm-12">
+    <div class="media">
+      <span class="pull-left">
+        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" target="_blank">
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" height="60" alt="Valedictorian" />
+        </a>
+      </span>
+      <div class="media-body">
+        <h4 class="media-heading">Valedictorian</h4>
+        <p>
+          Earn all other commendations
+        </p>
+      </div>
+    </div>
+  </div>
+
+</div>
