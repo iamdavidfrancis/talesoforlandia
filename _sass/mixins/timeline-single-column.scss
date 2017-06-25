@@ -21,7 +21,7 @@
     }
 
     & .timeline-item {
-      width: 100%;
+      width: calc(100% - 1px);
 
       margin-bottom: $timeline-item-margin-bottom;
 
