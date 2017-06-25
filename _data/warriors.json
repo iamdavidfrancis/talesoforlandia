@@ -161,6 +161,97 @@
     "url": "smoke-cantrip"
   },
   {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Blink Stone",
+    "card-type": "Special",
+    "url": "blink-stone"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Bloodthirst Amulet",
+    "card-type": "Special",
+    "url": "bloodthirst-amulet"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Caltrops",
+    "card-type": "Special",
+    "url": "caltrops"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Creeping Lifeblossom",
+    "card-type": "Special",
+    "url": "creeping-lifeblossom"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Darkness Powder",
+    "card-type": "Special",
+    "url": "darkness-powder"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Magic Mirror",
+    "card-type": "Special",
+    "url": "magic-mirror"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Mega Ramen",
+    "card-type": "Special",
+    "url": "mega-ramen"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Nullifying Pendant",
+    "card-type": "Special",
+    "url": "nullifying-pendant"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Vandalism",
+    "card-type": "Special",
+    "url": "vandalism"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Voidscape Shatterstone",
+    "card-type": "Special",
+    "url": "voidscape-shatterstone"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Whitefang Talisman",
+    "card-type": "Special",
+    "url": "whitefang-talisman"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Wolf Companion",
+    "card-type": "Special",
+    "url": "wolf-companion"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "",
+    "card-type": "",
+    "url": ""
+  },
+  {
     "set": "2016",
     "doubleSided": true,
     "name": "Test",
