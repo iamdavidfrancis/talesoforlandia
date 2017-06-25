@@ -2,6 +2,7 @@
 layout: page
 title: Warriors of Orlandia
 meta-description: A list of all the warriors of Orlandia Cards, by set
+share-img: http://statics.orlandia.talesoforlandia.com/warriors/card-back.png
 css:
   - "/css/card.css"
 ---
