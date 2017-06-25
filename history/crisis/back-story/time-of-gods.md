@@ -17,10 +17,10 @@ Despite the company's best attempts, it seemed as though that once again the rad
 
 Now it was all going downhill. The plans, the company, Orlandia. Mr. Metz was growing both weary and desperate. "I'm sick of this!" He yelled, slamming both fists onto the table. "Sick of these little... cretins." Couldn't they see that the world needed to advance? Saving the Wyldes would only stop progress and surely leave many without jobs, homes and food. All for the sake of the damn animals.
 
-{:right-image: .text-center.col-md-3.col-sm-12.pull-right}
+{:right-image-4: .text-center.col-md-4.col-sm-12.pull-right}
 ![Narvian Skullcrab][skullcrab]<br>
 *Illus. by Damon Dykes*
-{: right-image}
+{: right-image-4}
 
 It wasn't as though he'd allow the entirety of every forest die off. He'd save some pieces, some animals, create a place for it all and put it in the new city that they desperately needed. Which would be paid for by the gems and jewels found in the ground beneath all of the untouched land. It would be perfect if it hadn't been for the Wyldewood Preservation Society.
 
