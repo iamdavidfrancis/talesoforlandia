@@ -9,7 +9,7 @@ share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/car
 
 "Damn Hippies!" Came the thunderous voice breaking the silence inside the office. Its source, the NuHelix CEO, sat hunched in his chair, hands clenched and eyes bulging. Anger boiled over and spewed out of him.
 
-"These little radicals are ruining everything..." Despite the volume being lowered, his words still held their burn, the last ounce of his self-control melting away. Did it matter? No one was in the building the late, save for a few janitors. They would keep quiet. They knew not to speak of what went on behind the closed doors of Orlandia's biggest corporation.
+"These little radicals are ruining everything..." Despite the volume being lowered, his words still held their burn, the last ounce of his self-control melting away. Did it matter? No one was in the building this late, save for a few janitors. They would keep quiet. They knew not to speak of what went on behind the closed doors of Orlandia's biggest corporation.
 
 The report that sparked his anger still sat right in front of Mr. Metz. His eyes hadn't moved though his body shook furiously.
 
