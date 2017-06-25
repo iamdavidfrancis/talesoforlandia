@@ -218,4 +218,9 @@
   .timeline {
     @include timeline-single-column;
   }
+
+  .timeline.timeline .timeline-label {
+    transform: none;
+    margin-left: 0;
+  }
 }
