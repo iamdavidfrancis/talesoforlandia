@@ -115,7 +115,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
       <div class="card-block">
         <h4 class="card-title">Crossroads at the Fork of Time</h4>
         <p class="card-subtitle">
-          The fifth time being exploded back into a wall was the final straw for Patroclus. And possibly for his back. Which ached increasingly as he pulled himself back up, fixing his askew glasses...
+          The fifth time being exploded back into a wall was the final straw for Patroclus. And possibly for his back. Which ached increasingly as he pulled himself back up...
         </p>
         <a href="back-story/crossroads-at-the-fork-of-time" class="btn btn-primary card-link">Read More</a>
       </div>
