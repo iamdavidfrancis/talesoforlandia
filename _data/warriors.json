@@ -79,9 +79,86 @@
   {
     "set": "2015",
     "doubleSided": false,
-    "name": "Warrior",
-    "card-type": "Warrior",
-    "url": ""
+    "name": "Curse of Befuddlement",
+    "card-type": "Inspiration",
+    "url": "curse-of-befuddlement"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Divine Intervention",
+    "card-type": "Inspiration",
+    "url": "divine-intervention"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Firestorm",
+    "card-type": "Inspiration",
+    "url": "firestorm"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Funeral Rites",
+    "card-type": "Inspiration",
+    "url": "funeral-rites"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Fury",
+    "card-type": "Inspiration",
+    "url": "fury"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Haste",
+    "card-type": "Inspiration",
+    "url": "haste"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Hot Springs",
+    "card-type": "Inspiration",
+    "url": "hot-springs"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Laughing Tiger's Boon",
+    "card-type": "Inspiration",
+    "url": "laughing-tigers-boon"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Locust Swarm",
+    "card-type": "Inspiration",
+    "url": "locust-swarm"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Melt",
+    "card-type": "Inspiration",
+    "url": "melt"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Mend",
+    "card-type": "Inspiration",
+    "url": "mend"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "name": "Smoke Cantrip",
+    "card-type": "Inspiration",
+    "url": "smoke-cantrip"
   },
   {
     "set": "2016",
