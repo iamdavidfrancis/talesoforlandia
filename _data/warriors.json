@@ -247,9 +247,219 @@
   {
     "set": "2015",
     "doubleSided": false,
-    "name": "",
-    "card-type": "",
-    "url": ""
+    "card-type": "Warrior",
+    "name": "Aconite",
+    "url": "aconite"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Assassin",
+    "url": "assassin"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Cursed Warrior",
+    "url": "cursed-warrior"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Cyrus",
+    "url": "cyrus"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Hemlock",
+    "url": "hemlock"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Kuma",
+    "url": "kuma"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Monk",
+    "url": "monk"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Pothos",
+    "url": "pothos"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Quothe",
+    "url": "quothe"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Scoundrel",
+    "url": "scoundrel"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Shiro",
+    "url": "shiro"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Sorcerer",
+    "url": "sorcerer"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Spirit Priest",
+    "url": "spirit-priest"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Ussuri",
+    "url": "ussuri"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Weaponmaster",
+    "url": "weaponmaster"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Warrior",
+    "name": "Wisteria",
+    "url": "wisteria"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Amidamarus",
+    "url": "amidamarus"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Blade of the Last Wolf",
+    "url": "blade-of-the-last-wolf"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Dawn Tree Blade",
+    "url": "dawn-tree-blade"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Devil's Claws",
+    "url": "devils-claws"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "H.A.M.M.E.R.",
+    "url": "hammer"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Katana",
+    "url": "katana"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Keening Needle",
+    "url": "keening-needle"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Khnum's Staff",
+    "url": "khnums-staff"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Kunai",
+    "url": "kunai"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Nunchaku",
+    "url": "nunchaku"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Stardust Wand",
+    "url": "stardust-wand"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "The Tick",
+    "url": "the-tick"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Wind Tessen",
+    "url": "wind-tessen"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Yumi",
+    "url": "yumi"
+  },
+  {
+    "set": "2015",
+    "doubleSided": false,
+    "card-type": "Weapon",
+    "name": "Zanbato",
+    "url": "zanbato"
   },
   {
     "set": "2016",
