@@ -1,35 +1,37 @@
 # --- General options --- #
-url: "https://talesoforlandia.com"
-baseurl: ""
+url: 'https://talesoforlandia.com'
+baseurl: ''
 
-title: "Tales of Orlandia"
-description: "A brief history of the Orlandia story thus far"
+title: 'Tales of Orlandia'
+description: 'A brief history of the Orlandia story thus far'
 
 # --- Navigation bar options --- #
 navbar-links:
-  About: "about"
-  Timeline: "timeline"
+  About: 'about'
+  Timeline: 'timeline'
   Orlandia History:
-    - Swords of Orlandia: "history/swords"
-    - Swords of Orlandia II: "history/swords-2"
-    - Swords of Orlandia III: "history/swords-3"
-    - Skies of Orlandia: "history/skies"
-    - Conquerors of Neo-Orlandia: "history/neo"
-    - Wyldes of Orlandia: "history/wyldes"
-    - Rocket Rangers of Orlandia: "history/rocket"
-    - Rocket Rangers of Orlandia II: "history/rocket-2"
-    - Curse of the White Witch: "history/witch"
-    - Crisis on Infinite Orlandias: "history/crisis"
-    - School Spirits: "history/spirits"
-  FAQ: "faq"
-  AFO Home: "http://www.animefestivalorlando.com"
+    - Swords of Orlandia: 'history/swords'
+    - Swords of Orlandia II: 'history/swords-2'
+    - Swords of Orlandia III: 'history/swords-3'
+    - Skies of Orlandia: 'history/skies'
+    - Conquerors of Neo-Orlandia: 'history/neo'
+    - Wyldes of Orlandia: 'history/wyldes'
+    - Rocket Rangers of Orlandia: 'history/rocket'
+    - Rocket Rangers of Orlandia II: 'history/rocket-2'
+    - Curse of the White Witch: 'history/witch'
+    - Crisis on Infinite Orlandias: 'history/crisis'
+    - School Spirits: 'history/spirits'
+    - Seas of Orlandia: 'history/seas'
+    - Syndicates of Cyber-Orlandia: 'history/syndicates'
+  FAQ: 'faq'
+  AFO Home: 'http://www.animefestivalorlando.com'
 
-avatar-ext: "http://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png"
+avatar-ext: 'http://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
 
 # --- Footer options --- #
 author:
   name: Anime Festival Orlando
-  email: "tales@talesoforlandia.com"
+  email: 'tales@talesoforlandia.com'
   facebook: CodexOrlandia
   twitter: TalesOfOrlandia
   youtube: channel/UCg-REAtGdrNEB-wktjCSJiA
@@ -48,14 +50,14 @@ share-links-active:
   facebook: true
   email: true
 
-url-pretty: "TalesOfOrlandia.com"
+url-pretty: 'TalesOfOrlandia.com'
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-101259382-1"
+google_analytics: 'UA-101259382-1'
 
 # Google Tag Manager ID
 #gtm: ""
@@ -69,11 +71,10 @@ excerpt_length: 50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
-
+title-separator: '-'
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
-timezone: "America/New_York"
+timezone: 'America/New_York'
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
@@ -84,19 +85,17 @@ kramdown:
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
-      path: ""
-      type: "posts"
+  - scope:
+      path: ''
+      type: 'posts'
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
+      layout: 'post'
+      comments: true # add comments to all blog posts
       social-share: true # add social media sharing buttons to all blog posts
-  -
-    scope:
-      path: "" # all files
+  - scope:
+      path: '' # all files
     values:
-      layout: "page"
+      layout: 'page'
       show-avatar: true
 
 # Use tags pages (not recommended if you are deploying via GitHub pages, only set to true if deploying locally with ruby)
@@ -129,41 +128,41 @@ prose:
     - /js
   metadata:
     _posts:
-      - name: "layout"
+      - name: 'layout'
         field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
+          element: 'hidden'
+          value: 'post'
+      - name: 'title'
         field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
+          element: 'text'
+          label: 'Post title'
+          placeholder: 'Title'
           alterable: true
-      - name: "subtitle"
+      - name: 'subtitle'
         field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
+          element: 'textarea'
+          label: 'Subtitle'
+          placeholder: 'A description of your post.'
           alterable: true
-      - name: "date"
+      - name: 'date'
         field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
+          element: 'text'
+          label: 'Date'
+          help: 'Enter date of post.'
+          placeholder: 'yyyy-mm-dd'
           alterable: true
-      - name: "image"
+      - name: 'image'
         field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
+          element: 'text'
+          label: 'Image'
+          help: 'Add a thumbnail image to your post.'
+          placeholder: 'Thumbnail'
           alterable: true
-      - name: "published"
+      - name: 'published'
         field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+          element: 'checkbox'
+          label: 'Publish'
+          help: 'Check to publish post, uncheck to hide.'
 
 gems:
   - jekyll-paginate
