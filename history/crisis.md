@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Crisis on Infinite Orlandias
-meta-description: It is the end of time as we know it and history itself appears to be at stake. 
+meta-description: It is the end of time as we know it and history itself appears to be at stake.
 share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
-  - "/css/card.css"
+  - '/css/card.css'
 ---
 
-{:.text-center.col-md-6.col-md-offset-3.col-sm-12}
+{:.text-center.col-md-4.col-md-offset-4.col-sm-12}
 ![Crisis on Infinite Orlandias Logo][crisis-logo]
 
 {:.clearfix}
@@ -16,30 +16,26 @@ It is the end of time as we know it and history itself appears to be at stake. P
 # The Factions
 
 {:.col-md-12}
+
 ## Earthquake
 
 {:.text-center.col-md-3.col-sm-12}
 ![Earthquake Logo][earthquake]
 
 {:.col-md-9.col-sm-12}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
 
 {:.col-md-12}
+
 ## Lightning
 
-{:.text-center.col-md-3.col-sm-12}
-![Lightning Logo][lightning]
-
-{:.col-md-9.col-sm-12}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit. 
-
-{:.clearfix}
+>
 
 ---
 
 # Story
 
-Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below or can be downloaded as one document [here](http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/afo-2016-crisis-backstory.pdf). 
+Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below or can be downloaded as one document [here](http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/afo-2016-crisis-backstory.pdf).
 
 ## Backstory
 
@@ -378,7 +374,6 @@ Players were able to earn Commendations for completing certain actions. This is 
     </div>
   </div>  
 </div>
-
 
 [crisis-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 [earthquake]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png
