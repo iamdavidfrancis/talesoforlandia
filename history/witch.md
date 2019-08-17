@@ -133,7 +133,7 @@ This year in Tales of Orlandia, we introduced a new card game for use in the Tav
     <div class="media">
       <span class="pull-left">
         <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" height="60" alt="" />
+          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" height="60" alt="Bear Hunter" />
         </a>
       </span>
       <div class="media-body">
