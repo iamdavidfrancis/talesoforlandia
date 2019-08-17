@@ -36,3 +36,8 @@ Each player draws a card from the shuffled deck, and the player with the highest
 A player begins each turns by drawing one card from the **Draw Pile**
 
 > This is a blockquote
+
+```
+This is a code block.
+Blah blah blah
+```
