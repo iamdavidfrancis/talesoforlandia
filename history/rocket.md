@@ -12,6 +12,19 @@ css:
 
 {:.clearfix}
 
+> Incoming Transmission
+> Date: L.E. 0053 (Lunar Era)
+>
+> It's been 53 years since the humans in Orlandia voluntarily relocated to the moon. Creating a new calendar that commemorated mankind's exodus to the stars, we now live in the Lunar Era, abbreviated L.E. and the year.
+>
+> To let the Earth heal itself from all the destruction of Orlandia's violent past, mankind is trying to let the Wyldewood heal the scars of humanity.
+>
+> The domed city of Lunar Orlandia is where all Orlandians live, save for a small few left in stewardship of the Earth at the former NuHelix research facility, Wyndham One.
+>
+> [Astro Forces Logo][astro-forces-logo]
+>
+> Defended by the Astro Forces of Orlandia, and their commanders the Rocket Rangers. These brave men and women protect the Lunar city and all of our solar system from enemies, both human and otherwise. Armed with a Khaser gun and a rocket ship, they patrol the space lanes and protect people from all the ways space has devised to kill us.
+
 # The Factions
 
 {:.col-md-12}
@@ -41,3 +54,4 @@ TODO: Finish content
 [rocket-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
 [rr-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.jpg
 [felix-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.jpg
+[astro-forces-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/astro-forces-logo.jpg
