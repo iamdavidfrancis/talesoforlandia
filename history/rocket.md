@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Rocket Rangers of Orlandia
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
 css:
   - '/css/card.css'
 ---
