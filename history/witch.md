@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Curse of the White Witch
+meta-description: In the earliest days of Orlandia, the Bear and Raven Clans lived at odds with each other. The presence of the mysterious Withered Hand has everyone on edge. What will happen next?
 share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
 css:
   - '/css/card.css'
