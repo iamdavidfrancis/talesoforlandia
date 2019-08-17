@@ -39,5 +39,5 @@ The invading force from Mars. This NPC only faction was the main enemy for _Rock
 TODO: Finish content
 
 [rocket-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
-[rr-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.png
-[felix-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.png
+[rr-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.jpg
+[felix-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.jpg
