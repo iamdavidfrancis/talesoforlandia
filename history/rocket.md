@@ -21,7 +21,7 @@ css:
 >
 > The domed city of Lunar Orlandia is where all Orlandians live, save for a small few left in stewardship of the Earth at the former NuHelix research facility, Wyndham One.
 >
-> [Astro Forces Logo][astro-forces-logo]
+> ![Astro Forces Logo][astro-forces-logo]
 >
 > Defended by the Astro Forces of Orlandia, and their commanders the Rocket Rangers. These brave men and women protect the Lunar city and all of our solar system from enemies, both human and otherwise. Armed with a Khaser gun and a rocket ship, they patrol the space lanes and protect people from all the ways space has devised to kill us.
 
