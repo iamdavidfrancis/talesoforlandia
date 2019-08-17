@@ -12,7 +12,7 @@ css:
 
 {:.clearfix}
 
-> Incoming Transmission
+> Incoming Transmission  
 > Date: L.E. 0053 (Lunar Era)
 >
 > It's been 53 years since the humans in Orlandia voluntarily relocated to the moon. Creating a new calendar that commemorated mankind's exodus to the stars, we now live in the Lunar Era, abbreviated L.E. and the year.
