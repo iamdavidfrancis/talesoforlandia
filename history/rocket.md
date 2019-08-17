@@ -7,7 +7,7 @@ css:
   - '/css/card.css'
 ---
 
-{:.text-center.col-md-6.col-md-offset-3.col-sm-12}
+{:.text-center.col-md-4.col-md-offset-4.col-sm-12}
 ![Rocket Rangers Logo][rocket-logo]
 
 {:.clearfix}
