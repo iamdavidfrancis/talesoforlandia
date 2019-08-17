@@ -60,6 +60,10 @@ TODO: Add this
 
 This year in Tales of Orlandia, we introduced a new card game for use in the Tavern, _Warriors of Orlandia_.
 
+## Results
+
+After a tough weekend, the Raven Clan emerged victorious, helping to restore balance to Orlandia.
+
 ## Commendations
 
 <div class="row">
