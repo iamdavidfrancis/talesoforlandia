@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Curse of the White Witch
-subtitle: <Add subtitle>
+share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
 css:
   - '/css/card.css'
 ---
