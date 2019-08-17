@@ -54,4 +54,4 @@ TODO: Finish content
 [rocket-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
 [rr-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.jpg
 [felix-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.jpg
-[astro-forces-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/astro-forces-logo.jpg
+[astro-forces-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/astro-force-logo.png
