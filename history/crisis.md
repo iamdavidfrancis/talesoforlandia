@@ -29,7 +29,11 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 
 ## Lightning
 
->
+{:.text-center.col-md-3.col-sm-12}
+![Lightning Logo][lightning]
+
+{:.col-md-9.col-sm-12}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
 
 ---
 
