@@ -15,6 +15,7 @@ It is the end of time as we know it and history itself appears to be at stake. P
 
 # The Factions
 
+<div class="row">
 {:.col-md-12}
 
 ## Earthquake
@@ -27,6 +28,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 
 {:.col-md-12}
 
+</div>
+<div class="row">
 ## Lightning
 
 {:.text-center.col-md-3.col-sm-12}
@@ -35,7 +38,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 {:.col-md-9.col-sm-12}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
 
----
+</div>
 
 # Story
 
@@ -43,7 +46,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
 ## Backstory
 
-<div class="row" >
+<div class="row">
   <div class="col-md-4 col-sm-12">
     <div class="card">
       <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
