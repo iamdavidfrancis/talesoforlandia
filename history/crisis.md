@@ -15,7 +15,6 @@ It is the end of time as we know it and history itself appears to be at stake. P
 
 # The Factions
 
-<div class="row">
 {:.col-md-12}
 
 ## Earthquake
@@ -28,8 +27,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 
 {:.col-md-12}
 
-</div>
-<div class="row">
 ## Lightning
 
 {:.text-center.col-md-3.col-sm-12}
@@ -38,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, elei
 {:.col-md-9.col-sm-12}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
 
-</div>
+---
 
 # Story
 
