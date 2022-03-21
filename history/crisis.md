@@ -15,27 +15,33 @@ It is the end of time as we know it and history itself appears to be at stake. P
 
 # The Factions
 
-{:.col-md-12}
+<div class="row">
+ <div class="col-md-12">
+    <h2 id="earthquake">Earthquake</h2>
+ </div>
+</div>
+<div class="row">
+ <div class="text-center col-md-3 col-sm-12">
+    <img alt="Earthquake Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png">
+ </div>
+ <div class="text-center col-md-9 col-sm-12">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
+ </div>
+</div>
 
-## Earthquake
-
-{:.text-center.col-md-3.col-sm-12}
-![Earthquake Logo][earthquake]
-
-{:.col-md-9.col-sm-12}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
-
-{:.col-md-12}
-
-## Lightning
-
-{:.text-center.col-md-3.col-sm-12}
-![Lightning Logo][lightning]
-
-{:.col-md-9.col-sm-12}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
-
----
+<div class="row">
+ <div class="col-md-12">
+    <h2 id="lightning">Lightning</h2>
+ </div>
+</div>
+<div class="row">
+ <div class="text-center col-md-3 col-sm-12">
+    <img alt="Lightning Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png">
+ </div>
+ <div class="text-center col-md-9 col-sm-12">
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
+ </div>
+</div>
 
 # Story
 
@@ -380,5 +386,3 @@ Players were able to earn Commendations for completing certain actions. This is 
 </div>
 
 [crisis-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
-[earthquake]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png
-[lightning]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png
