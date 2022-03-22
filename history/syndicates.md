@@ -40,7 +40,7 @@ Syndicates of Cyber Orlandia was recorded and posted online to Youtube. You can 
 ### Act 1
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-12">
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2jEyO9aA6Co" title="Act 1 - YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
@@ -48,7 +48,7 @@ Syndicates of Cyber Orlandia was recorded and posted online to Youtube. You can 
 ### Act 2
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-12">
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YYjL5-A7WCA" title="Act 2 - YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
@@ -56,7 +56,7 @@ Syndicates of Cyber Orlandia was recorded and posted online to Youtube. You can 
 ### Act 3
 
 <div class="row">
-  <div class="col-md-6 col-md-offset-3">
+  <div class="col-md-12">
     <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/7DJxCnUEmE4" title="Act 3 - YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
