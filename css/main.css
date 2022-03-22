@@ -697,3 +697,7 @@ td.gutter {
 .timeline .subtitle {
   margin-top: 0;
 }
+
+.timeline .timeline-body p:first-child {
+  margin-top: 0;
+}
