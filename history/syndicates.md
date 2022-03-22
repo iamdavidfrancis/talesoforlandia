@@ -35,6 +35,8 @@ title: Syndicates of Cyber-Orlandia
 
 ## Story
 
+Syndicates of Cyber Orlandia was recorded and posted online to Youtube. You can view the three acts below.
+
 ### Act 1
 
 <div class="row">
