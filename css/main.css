@@ -693,3 +693,7 @@ td.gutter {
 .top-links .top-link:not(:last-child)::after {
   content: " | ";
 }
+
+.timeline .subtitle {
+  margin-top: 0;
+}
