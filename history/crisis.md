@@ -24,7 +24,7 @@ It is the end of time as we know it and history itself appears to be at stake. P
  <div class="text-center col-md-3 col-sm-12">
     <img alt="Earthquake Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png">
  </div>
- <div class="text-center col-md-9 col-sm-12">
+ <div class="col-md-9 col-sm-12">
     TODO: Add faction description
  </div>
 </div>
@@ -38,7 +38,7 @@ It is the end of time as we know it and history itself appears to be at stake. P
  <div class="text-center col-md-3 col-sm-12">
     <img alt="Lightning Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png">
  </div>
- <div class="text-center col-md-9 col-sm-12">
+ <div class="col-md-9 col-sm-12">
     TODO: Add faction description
  </div>
 </div>
