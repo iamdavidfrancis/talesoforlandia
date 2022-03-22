@@ -15,7 +15,7 @@ title: Syndicates of Cyber-Orlandia
     <img alt="C.O.R.E. Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/core.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
+    TODO: Add faction description
  </div>
 </div>
 
@@ -29,7 +29,7 @@ title: Syndicates of Cyber-Orlandia
     <img alt="Outcasts Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/outcasts.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
+    TODO: Add faction description
  </div>
 </div>
 
