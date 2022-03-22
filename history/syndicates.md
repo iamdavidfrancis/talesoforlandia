@@ -12,7 +12,7 @@ title: Syndicates of Cyber-Orlandia
 </div>
 <div class="row">
  <div class="text-center col-md-3 col-sm-12">
-    <img alt="C.O.R.E. Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/core.png">
+    <img alt="C.O.R.E. Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/core.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
@@ -26,7 +26,7 @@ title: Syndicates of Cyber-Orlandia
 </div>
 <div class="row">
  <div class="text-center col-md-3 col-sm-12">
-    <img alt="Outcasts Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/outcasts.png">
+    <img alt="Outcasts Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/outcasts.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
@@ -73,8 +73,8 @@ TODO: Add this.
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/sleuth.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/sleuth.png" height="60" alt="Ultimate Sleuth" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/sleuth.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/sleuth.png" height="60" alt="Ultimate Sleuth" />
         </a>
       </span>
       <div class="media-body">
@@ -89,8 +89,8 @@ TODO: Add this.
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/haystack.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/haystack.png" height="60" alt="Needle in a Haystack" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/haystack.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/haystack.png" height="60" alt="Needle in a Haystack" />
         </a>
       </span>
       <div class="media-body">
@@ -105,8 +105,8 @@ TODO: Add this.
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/know.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/know.png" height="60" alt="Know Where to Go" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/know.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/know.png" height="60" alt="Know Where to Go" />
         </a>
       </span>
       <div class="media-body">
@@ -123,8 +123,8 @@ TODO: Add this.
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/mission.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/mission.png" height="60" alt="Mission Complete" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/mission.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/mission.png" height="60" alt="Mission Complete" />
         </a>
       </span>
       <div class="media-body">
@@ -139,8 +139,8 @@ TODO: Add this.
   <div class="col-md-4 col-md-offset-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/collector.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/collector.png" height="60" alt="Collector" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/collector.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/syndicates/commendations/collector.png" height="60" alt="Collector" />
         </a>
       </span>
       <div class="media-body">

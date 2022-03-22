@@ -4,7 +4,7 @@ title:  No One Answered
 date:   2017-02-11 19:27:00 -0800
 author: Andy Emmerson
 meta-description: "\"I'm tellin' ya, I saw some serious stuff down the hallway,\" Aono told his friend. Aono stood taller, looking over the head of Mizore and into the long hallway..."
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
 ---
 
 "I'm tellin' ya, I saw some serious stuff down the hallway," Aono told his friend.

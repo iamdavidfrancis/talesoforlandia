@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rocket Rangers of Orlandia
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
 meta-description: It’s been 53 years since the humans in Orlandia voluntarily relocated to the moon.  Creating a new calendar that commemorates mankind’s exodus to the stars, we now live in the Lunar Era...
 css:
   - '/css/card.css'
@@ -51,7 +51,7 @@ The invading force from Mars. This NPC only faction was the main enemy for _Rock
 
 TODO: Finish content
 
-[rocket-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
-[rr-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.jpg
-[felix-badge]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.jpg
-[astro-forces-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/astro-force-logo.png
+[rocket-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rocket-logo.png
+[rr-badge]: https://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/rr-badge.jpg
+[felix-badge]: https://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/felix-badge.jpg
+[astro-forces-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/rocket/astro-force-logo.png

@@ -4,7 +4,7 @@ title:  "No One Witnessed"
 date:   2017-04-09 15:18:00 -0800
 author: Andy Emmerson
 meta-description: The door shut behind Yuzuru, creating the smallest echo of noise in the deserted hallway, followed by a small sigh of relief. Spending all afternoon and night studying was always a pain...
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru.png
 ---
 
 {:left-image: .text-center.col-md-3.col-sm-12 }
@@ -40,4 +40,4 @@ Could it go through doors? That was a question he should’ve tried to answer ea
 
 Was this… thing the reason they closed this part of the school? No. It couldn’t be. They wouldn’t let the kids stay in a school possessed by a spirit like this. Or whatever it was. But, then again, it wasn’t like the city had a lot of options. And maybe this was a result of all of the construction. The renovations had roused this creature and let it loose. Which would explain those missing kids. God. Those missing kids. Would he suffer from the same fate? Questions, all of which he hoped would be answered when-
 
-[yuzuru]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru.png
+[yuzuru]: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru.png

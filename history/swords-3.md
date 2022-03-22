@@ -2,7 +2,7 @@
 layout: page
 title: Swords of Orlandia III
 subtitle: The Khaz'Radan Prophecy 
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-3-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-3-logo.png
 meta-description: The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Interactive Convention Experience (ICE) for Anime Festival Orlando 2009
 ---
 
@@ -14,7 +14,7 @@ meta-description: The third intallment of Swords of Orlandia, the Khaz'Radan Pro
 *Illustration by Damon Dykes ([http://damondrawsart.com](http://damondrawsart.com))*
 
 The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Interactive Convention Experience (ICE) for Anime Festival Orlando 2009
-It include the first "Tales of Orlandia," which is a collection of short stories that were released in installments as a lead up to the convention. These were also included in a printed book that was distributed at the show. A PDF of these can be found <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-of-orlandia-3.pdf" target="_blank">here</a>.
+It include the first "Tales of Orlandia," which is a collection of short stories that were released in installments as a lead up to the convention. These were also included in a printed book that was distributed at the show. A PDF of these can be found <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-of-orlandia-3.pdf" target="_blank">here</a>.
 
 # Gameplay
 
@@ -80,4 +80,4 @@ Generals and Lieutenants of the Anarachs and Shadowfowl will be leading the char
 
 Lieutenants are players in the Swords of Orlandia III game that have reached Level 3 for their side and have shown uncanny amounts of courage, loyalty and charisma while participating in the game. The job of a Lieutenant includes recruiting new players into their army, maintaining a good morale, and giving out quests for XP. Lieutenants will be hand-picked by the Generals of their side to serve a higher rank than that of any other player and will receive the Lieutenant's emblem, the Lieutenant's scroll that details duties of the Lieutenant and quests that they can give, and a specific amount of XP to give out to players who complete their assigned quests. Lieutenant positions are small in number and very prestigious. It is up to you if you wish to strive for such glory!
 
-[swords-3-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-3-logo.png
+[swords-3-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-3-logo.png

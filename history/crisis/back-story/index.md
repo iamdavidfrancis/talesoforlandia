@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Crisis Backstory
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
   - "/css/card.css"
 ---
@@ -11,7 +11,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 <div class="row" >
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
       <div class="card-block">
         <h4 class="card-title">Time of Gods</h4>
         <p class="card-subtitle">
@@ -24,7 +24,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/skies.jpg" alt="Time of Skies">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/skies.jpg" alt="Time of Skies">
       <div class="card-block">
         <h4 class="card-title">Time of Skies</h4>
         <p class="card-subtitle">
@@ -37,7 +37,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris-cropped.jpg" alt="Time of Storms">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris-cropped.jpg" alt="Time of Storms">
       <div class="card-block">
         <h4 class="card-title">Time of Storms</h4>
         <p class="card-subtitle">
@@ -50,7 +50,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle-cropped.png" alt="Time of Swords">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle-cropped.png" alt="Time of Swords">
       <div class="card-block">
         <h4 class="card-title">Time of Swords</h4>
         <p class="card-subtitle">
@@ -63,7 +63,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger-cropped.jpg" alt="Time of Shadows">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger-cropped.jpg" alt="Time of Shadows">
       <div class="card-block">
         <h4 class="card-title">Time of Shadows</h4>
         <p class="card-subtitle">
@@ -76,7 +76,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/patroclus-cropped.jpg" alt="Crossroads at the Fork of Time">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/patroclus-cropped.jpg" alt="Crossroads at the Fork of Time">
       <div class="card-block">
         <h4 class="card-title">Crossroads at the Fork of Time</h4>
         <p class="card-subtitle">

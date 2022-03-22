@@ -1,7 +1,7 @@
 ---
 layout: page
 title: School Spirits Backstory
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
 css:
   - "/css/card.css"
 ---
@@ -11,7 +11,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 <div class="row" >
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png" alt="No One Answered">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png" alt="No One Answered">
       <div class="card-block">
         <h4 class="card-title">No One Answered</h4>
         <p class="card-subtitle">
@@ -24,7 +24,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru-cropped.png" alt="No One Witnessed">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru-cropped.png" alt="No One Witnessed">
       <div class="card-block">
         <h4 class="card-title">No One Witnessed</h4>
         <p class="card-subtitle">
@@ -37,7 +37,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png" alt="No One Knew">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png" alt="No One Knew">
       <div class="card-block">
         <h4 class="card-title">No One Knew</h4>
         <p class="card-subtitle">

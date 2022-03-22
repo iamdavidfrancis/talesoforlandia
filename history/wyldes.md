@@ -2,7 +2,7 @@
 layout: page
 title: Wyldes of Orlandia
 meta-description: "Two factions are battling for control of the Wyldewoods, a resource rich piece of land: NuHelix, who wants to use the natural resources of the Wyldewood, and The Wyldewood Preservation Society, who want to protect the creatures who live there."
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/wyldes-logo.jpg
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/wyldes-logo.jpg
 cards:
   - name: Full Orlandia Spread
     url: full-spread.png
@@ -49,7 +49,7 @@ cards:
 ---
 
 {:.text-center}
-<img src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/wyldes-logo.jpg" height="200" alt="Skies of Orlandia Logo">
+<img src="https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/wyldes-logo.jpg" height="200" alt="Skies of Orlandia Logo">
 
 {:.text-muted.text-center}
 *Illustration by Damon Dykes ([http://damondrawsart.com](http://damondrawsart.com))*
@@ -66,7 +66,7 @@ This year the ICE event utilized a collectible card game to determine the outcom
 {% for card in page.cards %}
 <div class="col-xl-3 col-md-4 col-sm-6 col-xs-12">
   <figure class="figure">
-    <img src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/{{ card.url }}" alt="{{ card.name }}" class="figure-img img-fluid rounded img-rounded">
+    <img src="https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/{{ card.url }}" alt="{{ card.name }}" class="figure-img img-fluid rounded img-rounded">
     <figcaption class="figure-caption text-muted">{{ card.name }}</figcaption>
   </figure>
 </div>

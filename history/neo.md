@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Conquerors of Neo-Orlandia
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/neo-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/neo/neo-logo.png
 meta-description: Three factions of Neo-Orlandia are battling each other for territory and resources and it will be up to the citizens of Neo-Orlandia to band together and play for the faction they wish to give support to in order to shape a new chapter in the saga of Orlandia!
 ---
 
@@ -54,7 +54,7 @@ Citizens of Neo-Orlandia that feel disenfranchised and even oppressed by Queen O
 They are the wild card in this struggle for Neo-Orlandia. They do not wish to rule Neo-Orlandia; instead they anticipate its destruction. Remnants from all the bandits and thugs that Octantis defeated in battle, they have all gathered as a single faction hell-bent on destroying everything she has built as a form of mockery. The Jesters are led by the Bandit King, a psychopath whose lust for bloodshed has drawn every murderer of the wasteland together for one final battle.
 
 
-[neo-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/neo-logo.png
-[order]: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/order.png
-[polaris]: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/polaris.png
-[jesters]: http://statics.orlandia.talesoforlandia.com/past-orlandias/neo/jesters.png
+[neo-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/neo/neo-logo.png
+[order]: https://statics.orlandia.talesoforlandia.com/past-orlandias/neo/order.png
+[polaris]: https://statics.orlandia.talesoforlandia.com/past-orlandias/neo/polaris.png
+[jesters]: https://statics.orlandia.talesoforlandia.com/past-orlandias/neo/jesters.png

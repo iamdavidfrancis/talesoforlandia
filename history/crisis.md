@@ -2,7 +2,7 @@
 layout: page
 title: Crisis on Infinite Orlandias
 meta-description: It is the end of time as we know it and history itself appears to be at stake.
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
 css:
   - '/css/card.css'
 ---
@@ -22,7 +22,7 @@ It is the end of time as we know it and history itself appears to be at stake. P
 </div>
 <div class="row">
  <div class="text-center col-md-3 col-sm-12">
-    <img alt="Earthquake Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png">
+    <img alt="Earthquake Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/earthquake-logo.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
@@ -36,7 +36,7 @@ It is the end of time as we know it and history itself appears to be at stake. P
 </div>
 <div class="row">
  <div class="text-center col-md-3 col-sm-12">
-    <img alt="Lightning Logo" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png">
+    <img alt="Lightning Logo" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/lightning-logo.png">
  </div>
  <div class="text-center col-md-9 col-sm-12">
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nulla purus, eleifend ut massa eu, lacinia tempus elit. Aliquam lorem felis, pretium vel faucibus eget, congue id enim. Aliquam erat volutpat. Pellentesque lobortis magna pellentesque, blandit augue eu, lobortis dolor. Duis ante eros, elementum vel odio eget, laoreet tristique tellus. Vivamus porttitor orci sit amet mi suscipit hendrerit.
@@ -45,14 +45,14 @@ It is the end of time as we know it and history itself appears to be at stake. P
 
 # Story
 
-Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below or can be downloaded as one document [here](http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/afo-2016-crisis-backstory.pdf).
+Crisis on Infinite Orlandias was the first year that backstory posts were published on the AFO website. Copies of the original posts are linked below or can be downloaded as one document [here](https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/afo-2016-crisis-backstory.pdf).
 
 ## Backstory
 
 <div class="row">
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg" alt="Time of Gods">
       <div class="card-block">
         <h4 class="card-title">Time of Gods</h4>
         <p class="card-subtitle">
@@ -65,7 +65,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/skies.jpg" alt="Time of Skies">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/skies.jpg" alt="Time of Skies">
       <div class="card-block">
         <h4 class="card-title">Time of Skies</h4>
         <p class="card-subtitle">
@@ -78,7 +78,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris-cropped.jpg" alt="Time of Storms">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/polaris-cropped.jpg" alt="Time of Storms">
       <div class="card-block">
         <h4 class="card-title">Time of Storms</h4>
         <p class="card-subtitle">
@@ -91,7 +91,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle-cropped.png" alt="Time of Swords">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle-cropped.png" alt="Time of Swords">
       <div class="card-block">
         <h4 class="card-title">Time of Swords</h4>
         <p class="card-subtitle">
@@ -104,7 +104,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger-cropped.jpg" alt="Time of Shadows">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger-cropped.jpg" alt="Time of Shadows">
       <div class="card-block">
         <h4 class="card-title">Time of Shadows</h4>
         <p class="card-subtitle">
@@ -117,7 +117,7 @@ Crisis on Infinite Orlandias was the first year that backstory posts were publis
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/patroclus-cropped.jpg" alt="Crossroads at the Fork of Time">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/patroclus-cropped.jpg" alt="Crossroads at the Fork of Time">
       <div class="card-block">
         <h4 class="card-title">Crossroads at the Fork of Time</h4>
         <p class="card-subtitle">
@@ -155,8 +155,8 @@ Players were able to earn Commendations for completing certain actions. This is 
    <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/satan.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/satan.png" height="60" alt="Mr. Satan" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/satan.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/satan.png" height="60" alt="Mr. Satan" />
         </a>
       </span>
       <div class="media-body">
@@ -171,8 +171,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/historian.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/historian.png" height="60" alt="Historian" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/historian.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/historian.png" height="60" alt="Historian" />
         </a>
       </span>
       <div class="media-body">
@@ -187,8 +187,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/defender.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/defender.png" height="60" alt="Defender" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/defender.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/defender.png" height="60" alt="Defender" />
         </a>
       </span>
       <div class="media-body">
@@ -205,8 +205,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/guardian.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/guardian.png" height="60" alt="Guardian" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/guardian.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/guardian.png" height="60" alt="Guardian" />
         </a>
       </span>
       <div class="media-body">
@@ -221,8 +221,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/out-of-time.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/out-of-time.png" height="60" alt="Out of Time" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/out-of-time.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/out-of-time.png" height="60" alt="Out of Time" />
         </a>
       </span>
       <div class="media-body">
@@ -237,8 +237,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/commander.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/commander.png" height="60" alt="Commander" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/commander.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/commander.png" height="60" alt="Commander" />
         </a>
       </span>
       <div class="media-body">
@@ -255,8 +255,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/allies.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/allies.png" height="60" alt="Allies for Better or Worse" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/allies.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/allies.png" height="60" alt="Allies for Better or Worse" />
         </a>
       </span>
       <div class="media-body">
@@ -271,8 +271,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/pinnacle.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/pinnacle.png" height="60" alt="Pinnacle" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/pinnacle.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/pinnacle.png" height="60" alt="Pinnacle" />
         </a>
       </span>
       <div class="media-body">
@@ -287,8 +287,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/novice.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/novice.png" height="60" alt="Novice Warrior" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/novice.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/novice.png" height="60" alt="Novice Warrior" />
         </a>
       </span>
       <div class="media-body">
@@ -305,8 +305,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/intermediate.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/intermediate.png" height="60" alt="Intermediate Warrior" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/intermediate.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/intermediate.png" height="60" alt="Intermediate Warrior" />
         </a>
       </span>
       <div class="media-body">
@@ -321,8 +321,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/expert.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/expert.png" height="60" alt="Expert Warrior" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/expert.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/expert.png" height="60" alt="Expert Warrior" />
         </a>
       </span>
       <div class="media-body">
@@ -337,8 +337,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/storm.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/storm.png" height="60" alt="Chasing the Storm" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/storm.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/storm.png" height="60" alt="Chasing the Storm" />
         </a>
       </span>
       <div class="media-body">
@@ -355,8 +355,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/rock.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/rock.png" height="60" alt="Hard Rock" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/rock.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/rock.png" height="60" alt="Hard Rock" />
         </a>
       </span>
       <div class="media-body">
@@ -371,8 +371,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/elite-warrior.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/elite-warrior.png" height="60" alt="Elite Warrior" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/elite-warrior.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/commendations/elite-warrior.png" height="60" alt="Elite Warrior" />
         </a>
       </span>
       <div class="media-body">
@@ -385,4 +385,4 @@ Players were able to earn Commendations for completing certain actions. This is 
   </div>  
 </div>
 
-[crisis-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png
+[crisis-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/crisis-logo.png

@@ -4,7 +4,7 @@ title:  "Time of Swords"
 date:   2016-05-01 09:00:00 -0500
 author: Dimitri Kopansky
 meta-description: Hard leather heels dug into the horse’s flank, spurring it past an already break-neck speed. A tree branch scratched across her neck. Beads of blood dripped down Farah’s throat...
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle.png
 ---
 
 {:left-image: .text-center.col-md-3.col-sm-12 }
@@ -69,6 +69,6 @@ Kayden started to offer their thanks when a door banged open behind them.
 
 A light smirk worked its way onto Kayden’s lips. Their eyes had adjusted and they could see the pirate with whom Farah and them had been conversing, “I like her.”
 
-[portal]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal.png
-[captain]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/captain.png
-[castle]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle.png
+[portal]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal.png
+[captain]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/captain.png
+[castle]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/swords-castle.png

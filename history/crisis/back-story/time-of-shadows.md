@@ -4,7 +4,7 @@ title:  "Time of Shadows"
 date:   2016-06-01 09:00:00 -0500
 author: Andy Emmerson
 meta-description: When the brutal, burning stopped and Ross was thrown to the ground, he entertained the thought that he might have actually died. Being sucked into a black hole wasn’t exactly something...
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger.jpg
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger.jpg
 ---
 
 {:left-image: .text-center.col-md-3.col-sm-12 }
@@ -62,6 +62,6 @@ Unbeknownst to Ross or any other souls, something else did eventually come throu
 *Illus. by John Thompson*
 {: center-image-big}
 
-[portal-2]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal-2.png
-[ross]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/ross.png
-[intanger]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger.jpg
+[portal-2]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal-2.png
+[ross]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/ross.png
+[intanger]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/intanger.jpg

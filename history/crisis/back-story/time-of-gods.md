@@ -4,7 +4,7 @@ title:  "Time of Gods"
 date:   2016-02-01 09:00:00 -0500
 author: Andy Emmerson
 meta-description: “Damn Hippies!” Came the thunderous voice breaking the silence inside the office. Its source, the NuHelix CEO, sat hunched in his chair, hands clenched and eyes bulging. Anger boiled...
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg
 ---
 
 "Damn Hippies!" Came the thunderous voice breaking the silence inside the office. Its source, the NuHelix CEO, sat hunched in his chair, hands clenched and eyes bulging. Anger boiled over and spewed out of him.
@@ -75,5 +75,5 @@ Slowly Mr. Metz sat up. As his vision cleared, he saw that the room was empty sa
 
 Mr. Metz stared forward into the mask, slowly controlling his breathing. He reached up, nails digging into the stranger’s wrist. He growled and ripped the hand away from his throat. Eyes narrowed and through gritted teeth he replied, “I’m listening….”
 
-[skullcrab]: http://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg
-[portal]: http://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal.png
+[skullcrab]: https://statics.orlandia.talesoforlandia.com/past-orlandias/wyldes/cards/narvian-skullcrab.jpg
+[portal]: https://statics.orlandia.talesoforlandia.com/past-orlandias/crisis/portal.png

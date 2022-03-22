@@ -2,7 +2,7 @@
 layout: page
 title: Warriors of Orlandia
 meta-description: A list of all the warriors of Orlandia Cards, by set
-share-img: http://statics.orlandia.talesoforlandia.com/warriors/card-back.png
+share-img: https://statics.orlandia.talesoforlandia.com/warriors/card-back.png
 css:
   - "/css/card.css"
 ---
@@ -29,10 +29,10 @@ Skip to set: {% for set in sets  %}<span class="top-link"><a href="#{{ set.name 
       {% for card in cards %}
       <div class="col-md-3 col-sm-12">
         <div class="card">
-          <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/warriors/cards/{{ set.name }}/{{ cardType.name | downcase}}/{{ card.url }}-thumb.png" alt="{{ card.name }}">
+          <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/warriors/cards/{{ set.name }}/{{ cardType.name | downcase}}/{{ card.url }}-thumb.png" alt="{{ card.name }}">
           <div class="card-block">
             <h5 class="card-title">{{ card.name }}</h5>
-            <a href="http://statics.orlandia.talesoforlandia.com/warriors/cards/{{ set.name }}/{{ cardType.name | downcase}}/{{ card.url }}.png" class="btn btn-primary card-link" target="_blank">View Full Sized</a>
+            <a href="https://statics.orlandia.talesoforlandia.com/warriors/cards/{{ set.name }}/{{ cardType.name | downcase}}/{{ card.url }}.png" class="btn btn-primary card-link" target="_blank">View Full Sized</a>
           </div>
         </div>
       </div>

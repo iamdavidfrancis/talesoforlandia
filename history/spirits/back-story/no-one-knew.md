@@ -4,7 +4,7 @@ title:  "No One Knew"
 date:   2017-05-03 12:00:03 -0800
 author: Andy Emmerson
 meta-description: Another day at Yamata high and another day Ria spent waiting for, well, anything. The redhead sat underneath a tree on the grounds, watching two groups of kids bickering back and forth...
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png
 ---
 
 Another day at Yamata high and another day Ria spent waiting for, well, anything. The redhead sat underneath a tree on the grounds, watching two groups of kids bickering back and forth. Now and again, one would stand taller or attempt to throw a punch, but someone always stopped it. They knew better than to straight up fight while school was still in session.
@@ -48,5 +48,5 @@ For a split second, Ria was almost positive that the doll had nodded its head. I
 The next day, at lunch, once again both groups of kids in the blues and reds were arguing and yelling, some more than others. But, for once in some weeks, the tree that they gathered near stood with no one beneath it. Save for a small straw doll. Its entirety a light brown save for some splatters of crimson. Beady eyes stared at the two groups and every now and again, they would glow a soft purple.
 
 
-[possessed]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png
-[possessed-2]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed-2.png
+[possessed]: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png
+[possessed-2]: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed-2.png

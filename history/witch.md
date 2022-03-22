@@ -2,7 +2,7 @@
 layout: page
 title: Curse of the White Witch
 meta-description: In the earliest days of Orlandia, the Bear and Raven Clans lived at odds with each other. The presence of the mysterious Withered Hand has everyone on edge. What will happen next?
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
 css:
   - '/css/card.css'
 ---
@@ -71,8 +71,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/beginner.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/beginner.png" height="60" alt="Beginner" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/beginner.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/beginner.png" height="60" alt="Beginner" />
         </a>
       </span>
       <div class="media-body">
@@ -87,8 +87,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/novice.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/novice.png" height="60" alt="Novice" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/novice.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/novice.png" height="60" alt="Novice" />
         </a>
       </span>
       <div class="media-body">
@@ -103,8 +103,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/advanced.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/advanced.png" height="60" alt="Advanced" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/advanced.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/advanced.png" height="60" alt="Advanced" />
         </a>
       </span>
       <div class="media-body">
@@ -119,8 +119,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/expert.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/expert.png" height="60" alt="Expert" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/expert.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/expert.png" height="60" alt="Expert" />
         </a>
       </span>
       <div class="media-body">
@@ -137,8 +137,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" height="60" alt="Bear Hunter" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/bear-hunter.png" height="60" alt="Bear Hunter" />
         </a>
       </span>
       <div class="media-body">
@@ -153,8 +153,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ravenous.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ravenous.png" height="60" alt="Ravenous" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ravenous.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ravenous.png" height="60" alt="Ravenous" />
         </a>
       </span>
       <div class="media-body">
@@ -169,8 +169,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/deathcrusher.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/deathcrusher.png" height="60" alt="Deathcrusher" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/deathcrusher.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/deathcrusher.png" height="60" alt="Deathcrusher" />
         </a>
       </span>
       <div class="media-body">
@@ -185,8 +185,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-3 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/voidhammer.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/voidhammer.png" height="60" alt="Voidhammer" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/voidhammer.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/voidhammer.png" height="60" alt="Voidhammer" />
         </a>
       </span>
       <div class="media-body">
@@ -203,8 +203,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/master-collector.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/master-collector.png" height="60" alt="Master Collector" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/master-collector.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/master-collector.png" height="60" alt="Master Collector" />
         </a>
       </span>
       <div class="media-body">
@@ -219,8 +219,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ultimate-warrior.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ultimate-warrior.png" height="60" alt="Ultimate Warrior" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ultimate-warrior.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/ultimate-warrior.png" height="60" alt="Ultimate Warrior" />
         </a>
       </span>
       <div class="media-body">
@@ -235,8 +235,8 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/champion.png" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/champion.png" height="60" alt="Champion of Orlandia" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/champion.png" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/commendations/champion.png" height="60" alt="Champion of Orlandia" />
         </a>
       </span>
       <div class="media-body">
@@ -249,7 +249,7 @@ After a tough weekend, the Raven Clan emerged victorious, helping to restore bal
   </div>
 </div>
 
-[witch-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
-[raven]: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/raven-logo.png
-[bear]: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/bear-logo.png
-[withered-hand]: http://statics.orlandia.talesoforlandia.com/past-orlandias/witch/withered-hand-logo.png
+[witch-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/white-witch-logo.png
+[raven]: https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/raven-logo.png
+[bear]: https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/bear-logo.png
+[withered-hand]: https://statics.orlandia.talesoforlandia.com/past-orlandias/witch/withered-hand-logo.png

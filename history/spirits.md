@@ -2,7 +2,7 @@
 layout: page
 title: School Spirits
 meta-description: Two social clubs compete for the best hangout spots at school. Little do they know the school is not all it appears to be.
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png
 css:
   - "/css/card.css"
 ---
@@ -42,7 +42,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 <div class="row" >
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png" alt="No One Answered">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/ghosts.png" alt="No One Answered">
       <div class="card-block">
         <h4 class="card-title">No One Answered</h4>
         <p class="card-subtitle">
@@ -55,7 +55,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru-cropped.png" alt="No One Witnessed">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/yuzuru-cropped.png" alt="No One Witnessed">
       <div class="card-block">
         <h4 class="card-title">No One Witnessed</h4>
         <p class="card-subtitle">
@@ -68,7 +68,7 @@ School Spirits had several stories posted on the AFO website before AFO 2017. Co
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png" alt="No One Knew">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/possessed.png" alt="No One Knew">
       <div class="card-block">
         <h4 class="card-title">No One Knew</h4>
         <p class="card-subtitle">
@@ -111,8 +111,8 @@ After a weekend of close competition, with Dorenchi and Moyosu neck and neck alm
 **Dorenchi**: 8936 Points   
 **Moyosu**: 4161 Points
 
-[dorenchi]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/dorenchi.png
-[moyosu]: http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/moyosu.png
+[dorenchi]: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/dorenchi.png
+[moyosu]: https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/moyosu.png
 
 ## Commendations
 
@@ -122,8 +122,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" height="60" alt="History Final" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/history.jpg" height="60" alt="History Final" />
         </a>
       </span>
       <div class="media-body">
@@ -138,8 +138,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" height="60" alt="Defense" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defense.jpg" height="60" alt="Defense" />
         </a>
       </span>
       <div class="media-body">
@@ -154,8 +154,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" height="60" alt="Offense" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/offense.jpg" height="60" alt="Offense" />
         </a>
       </span>
       <div class="media-body">
@@ -171,8 +171,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" height="60" alt="Star Athlete" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/athlete.jpg" height="60" alt="Star Athlete" />
         </a>
       </span>
       <div class="media-body">
@@ -187,8 +187,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" height="60" alt="Class Rep" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/class-rep.jpg" height="60" alt="Class Rep" />
         </a>
       </span>
       <div class="media-body">
@@ -203,8 +203,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" height="60" alt="Salutatorian" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/salutatorian.jpg" height="60" alt="Salutatorian" />
         </a>
       </span>
       <div class="media-body">
@@ -220,8 +220,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" height="60" alt="Defeat Your Rival" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/defeat-rival.jpg" height="60" alt="Defeat Your Rival" />
         </a>
       </span>
       <div class="media-body">
@@ -236,8 +236,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" height="60" alt="Late Draft Pick" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl1.jpg" height="60" alt="Late Draft Pick" />
         </a>
       </span>
       <div class="media-body">
@@ -252,8 +252,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" height="60" alt="2nd Round Draft" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl2.jpg" height="60" alt="2nd Round Draft" />
         </a>
       </span>
       <div class="media-body">
@@ -269,8 +269,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" height="60" alt="1st Round Draft" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl3.jpg" height="60" alt="1st Round Draft" />
         </a>
       </span>
       <div class="media-body">
@@ -285,8 +285,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" height="60" alt="Firestarter" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4fire.jpg" height="60" alt="Firestarter" />
         </a>
       </span>
       <div class="media-body">
@@ -301,8 +301,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" height="60" alt="Waverider" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl4water.jpg" height="60" alt="Waverider" />
         </a>
       </span>
       <div class="media-body">
@@ -318,8 +318,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" height="60" alt="MVP" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/lvl5.jpg" height="60" alt="MVP" />
         </a>
       </span>
       <div class="media-body">
@@ -334,8 +334,8 @@ Players were able to earn Commendations for completing certain actions. This is 
   <div class="col-md-4 col-sm-12">
     <div class="media">
       <span class="pull-left">
-        <a href="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" target="_blank">
-          <img class="media-object img-circle" src="http://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" height="60" alt="Valedictorian" />
+        <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" target="_blank">
+          <img class="media-object img-circle" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/spirits/commendations/valedictorian.jpg" height="60" alt="Valedictorian" />
         </a>
       </span>
       <div class="media-body">

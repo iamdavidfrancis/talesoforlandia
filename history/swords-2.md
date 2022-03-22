@@ -2,7 +2,7 @@
 layout: page
 title: Swords of Orlandia II
 subtitle: Throne Into Chaos
-share-img: http://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-2-logo.gif
+share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-2-logo.gif
 meta-description: "A continuation of the story and setting from Swords of Orlandia (2007), Swords of Orlandia 2: Throne Into Chaos once again dealt with the royal family of Orlandia."
 ---
 
@@ -58,5 +58,5 @@ She and the King have raised their son knowing he will be the next King, and wit
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TBLLAYIIqb8" frameborder="0" allowfullscreen></iframe>
 
 
-[swords-2-logo]: http://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-2-logo.gif
+[swords-2-logo]: https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-2-logo.gif
 

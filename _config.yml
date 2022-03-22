@@ -27,7 +27,7 @@ navbar-links:
   FAQ: 'faq'
   AFO Home: 'http://www.animefestivalorlando.com'
 
-avatar-ext: 'http://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
+avatar-ext: 'https://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
 
 # --- Footer options --- #
 author:
