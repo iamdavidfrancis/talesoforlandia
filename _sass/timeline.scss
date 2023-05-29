@@ -11,6 +11,10 @@
 @import "mixins/timeline-row-clearfix";
 @import "mixins/timeline-single-column";
 
+.timeline-row:not(:first-of-type) {
+  margin-top: 5rem;
+}
+
 .timeline {
   @extend .timeline-line-solid;
   @include timeline-responsive-variant($timeline-item-width-offset, 0, 0, $timeline-item-width-offset);
