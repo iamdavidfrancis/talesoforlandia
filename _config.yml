@@ -9,23 +9,55 @@ description: 'A brief history of the Orlandia story thus far'
 navbar-links:
   About: 'about'
   Timeline: 'timeline'
-  Orlandia History:
-    - Swords of Orlandia: 'history/swords'
-    - Swords of Orlandia II: 'history/swords-2'
-    - Swords of Orlandia III: 'history/swords-3'
-    - Skies of Orlandia: 'history/skies'
-    - Conquerors of Neo-Orlandia: 'history/neo'
-    - Wyldes of Orlandia: 'history/wyldes'
-    - Rocket Rangers of Orlandia: 'history/rocket'
-    - Rocket Rangers of Orlandia II: 'history/rocket-2'
-    - Curse of the White Witch: 'history/witch'
-    - Crisis on Infinite Orlandias: 'history/crisis'
-    - School Spirits: 'history/spirits'
-    - Seas of Orlandia: 'history/seas'
-    - Syndicates of Cyber-Orlandia: 'history/syndicates'
-    - King's Ransom: 'history/kings-ransom'
-    - Chrono Conflict: 'history/chrono-conflict'
-  AFO Home: 'http://animefestivalorlando.com'
+  Orlandia History: 'history'
+  AFO Home: 'https://animefestivalorlando.com'
+
+history-pages:
+  - name: Swords of Orlandia
+    href: 'history/swords'
+    year: 2007
+  - name: Swords of Orlandia II
+    href: 'history/swords-2'
+    year: 2008
+  - name: Swords of Orlandia III
+    href: 'history/swords-3'
+    year: 2009
+  - name: Skies of Orlandia
+    href: 'history/skies'
+    year: 2010
+  - name: Conquerors of Neo-Orlandia
+    href: 'history/neo'
+    year: 2011
+  - name: Wyldes of Orlandia
+    href: 'history/wyldes'
+    year: 2012
+  - name: Rocket Rangers of Orlandia
+    href: 'history/rocket'
+    year: 2013
+  - name: Rocket Rangers of Orlandia II
+    href: 'history/rocket-2'
+    year: 2014
+  - name: Curse of the White Witch
+    href: 'history/witch'
+    year: 2015
+  - name: Crisis on Infinite Orlandias
+    href: 'history/crisis'
+    year: 2016
+  - name: School Spirits
+    href: 'history/spirits'
+    year: 2017
+  - name: Seas of Orlandia
+    href: 'history/seas'
+    year: 2018
+  - name: Syndicates of Cyber-Orlandia
+    href: 'history/syndicates'
+    year: 2019
+  - name: King's Ransom
+    href: 'history/kings-ransom'
+    year: 2022
+  - name: Chrono Conflict
+    href: 'history/chrono-conflict'
+    year: 2023
 
 avatar-ext: 'https://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
 
