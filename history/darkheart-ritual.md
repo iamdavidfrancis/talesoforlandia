@@ -1,6 +1,6 @@
 ---
 layout: page
-title: High Moon
+title: The Darkheart Ritual
 meta-description:
 share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/darkheart-ritual/darkheart-ritual-logo.png
 ---
