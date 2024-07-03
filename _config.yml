@@ -58,6 +58,12 @@ history-pages:
   - name: Chrono Conflict
     href: 'history/chrono-conflict'
     year: 2023
+  - name: High Moon
+    href: 'history/high-moon'
+    year: 2024
+  - name: Darkheart Ritual
+    href: 'history/darkheart-ritual'
+    year: 2025
 
 avatar-ext: 'https://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
 
