@@ -12,6 +12,8 @@ navbar-links:
   Orlandia History: 'history'
   AFO Home: 'https://animefestivalorlando.com'
 
+include: [".well-known"]
+
 history-pages:
   - name: Swords of Orlandia
     href: 'history/swords'
