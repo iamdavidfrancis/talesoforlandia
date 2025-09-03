@@ -1,24 +1,23 @@
 ---
 layout: page
 title: Swords of Orlandia III
-subtitle: The Khaz'Radan Prophecy 
+subtitle: The Khaz'Radan Prophecy
 share-img: https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-3-logo.png
-meta-description: The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Interactive Convention Experience (ICE) for Anime Festival Orlando 2009
+meta-description: The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Live Action Convention Experience (LACE) for Anime Festival Orlando 2009
 ---
-
 
 {:.text-center}
 ![Swords of Orlandia: The Khaz'Radan Prophecy ][swords-3-logo]
 
 {:.text-muted.text-center}
-*Illustration by Damon Dykes ([http://damondrawsart.com](http://damondrawsart.com))*
+_Illustration by Damon Dykes ([http://damondrawsart.com](http://damondrawsart.com))_
 
-The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Interactive Convention Experience (ICE) for Anime Festival Orlando 2009
+The third intallment of Swords of Orlandia, the Khaz'Radan Prophecy was the Live Action Convention Experience (LACE) for Anime Festival Orlando 2009
 It include the first "Tales of Orlandia," which is a collection of short stories that were released in installments as a lead up to the convention. These were also included in a printed book that was distributed at the show. A PDF of these can be found <a href="https://statics.orlandia.talesoforlandia.com/past-orlandias/swords/swords-of-orlandia-3.pdf" target="_blank">here</a>.
 
 # Gameplay
 
-*(As was posted on the AFO website)*
+_(As was posted on the AFO website)_
 
 "Defeat me if you think you can, or serve me if you wish. Until that day you are all… banished from Orlandia!"
 
@@ -26,7 +25,7 @@ Those were the final words uttered from the treacherous mouth of Corvdius, the o
 
 ### What is Swords of Orlandia III?
 
-Swords of Orlandia III: The Kaz'Radan Prophecy is the third and final installment of Anime Festival Orlando's interactive convention experience, a live action medieval RPG. Throughout the weekend, factions known as the ruling Shadowfowl and the rebellious Anarchs will be at war the entire weekend to claim sacred Runes that will play a pivotal role in deciding who will win the final battle. Both sides will depend heavily on courageous and cunning warriors to lend to their cause. This is where you come in!
+Swords of Orlandia III: The Kaz'Radan Prophecy is the third and final installment of Anime Festival Orlando's Live Action Convention Experience (LACE), a live action medieval RPG. Throughout the weekend, factions known as the ruling Shadowfowl and the rebellious Anarchs will be at war the entire weekend to claim sacred Runes that will play a pivotal role in deciding who will win the final battle. Both sides will depend heavily on courageous and cunning warriors to lend to their cause. This is where you come in!
 
 That's right! You will have a role in this game in which you participate in quests, win challenges and help your side uncover the elusive Runes necessary for victory! As you participate more in the game, you will gain experience points (XP) that you may use to level up your rank in the game and purchase equipment and other items.
 
@@ -60,18 +59,18 @@ As you gain XP in Swords of Orlandia, you may go to the town census at the Raven
 
 |--------------|-------------------|------|
 |**Beginning** | Exile of Orlandia | 0 XP |
-|**Level 1**   | Vigilante         | 5 XP |
-|**Level 2**   | Avenger           | 10 XP (15 XP total) |
-|**Level 3**   | Warrior of Justice | 15 XP (30 XP total) |
+|**Level 1** | Vigilante | 5 XP |
+|**Level 2** | Avenger | 10 XP (15 XP total) |
+|**Level 3** | Warrior of Justice | 15 XP (30 XP total) |
 |**Special Class** | Lieutenant for Great Justice ||
 
 ### Shadowfowl
 
 |--------------|-------------------|------|
 |**Beginning** | Subject of Orlandia | 0 XP |
-|**Level 1**   | Soldier         | 5 XP |
-|**Level 2**   | Shadow Warrior  | 10 XP (15 XP total) |
-|**Level 3**   | Death Knight    | 15 XP (30 XP total) |
+|**Level 1** | Soldier | 5 XP |
+|**Level 2** | Shadow Warrior | 10 XP (15 XP total) |
+|**Level 3** | Death Knight | 15 XP (30 XP total) |
 |**Special Class** | Lieutenant for the Yaoguai ||
 
 ### Generals and Lieutenants

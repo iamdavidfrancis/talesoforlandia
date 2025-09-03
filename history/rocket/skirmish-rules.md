@@ -11,7 +11,7 @@ Shuffle well and deal cards in an alternative fashion, dispensing 7 cards to eac
 
 ## What is the Hull?
 
-_Skirmish! War Between Worlds_ is a fast-paced card game that captures the spirit of combat between Rocketships in the Retro Sci Fi themed Interactive Convention Experience (ICE) “Rocket Rangers of Orlandia” at [Anime Festival Orlando](https://animefestivalorlando.com). The 3 cards played as the **Hull** represent the hull of a player’s ‘rocketship’. When a player sustains damage, called a **Hull Breach**, he must forfeit a card, placing it atop the Discard Pile. Hull cards are played from left to right. Once a player loses their last Hull Card, the game is over and the opponent wins. With that in mind, it will be your goal to force your opponent to lose all of their Hull Cards, sending their compromised rocketship twisting and plummeting from the sky.
+_Skirmish! War Between Worlds_ is a fast-paced card game that captures the spirit of combat between Rocketships in the Retro Sci Fi themed Live Action Convention Experience (LACE) “Rocket Rangers of Orlandia” at [Anime Festival Orlando](https://animefestivalorlando.com). The 3 cards played as the **Hull** represent the hull of a player’s ‘rocketship’. When a player sustains damage, called a **Hull Breach**, he must forfeit a card, placing it atop the Discard Pile. Hull cards are played from left to right. Once a player loses their last Hull Card, the game is over and the opponent wins. With that in mind, it will be your goal to force your opponent to lose all of their Hull Cards, sending their compromised rocketship twisting and plummeting from the sky.
 
 ## The Cards
 
