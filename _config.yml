@@ -14,59 +14,6 @@ navbar-links:
 
 include: [".well-known"]
 
-history-pages:
-  - name: Swords of Orlandia
-    href: 'history/swords'
-    year: 2007
-  - name: Swords of Orlandia II
-    href: 'history/swords-2'
-    year: 2008
-  - name: Swords of Orlandia III
-    href: 'history/swords-3'
-    year: 2009
-  - name: Skies of Orlandia
-    href: 'history/skies'
-    year: 2010
-  - name: Conquerors of Neo-Orlandia
-    href: 'history/neo'
-    year: 2011
-  - name: Wyldes of Orlandia
-    href: 'history/wyldes'
-    year: 2012
-  - name: Rocket Rangers of Orlandia
-    href: 'history/rocket'
-    year: 2013
-  - name: Rocket Rangers of Orlandia II
-    href: 'history/rocket-2'
-    year: 2014
-  - name: Curse of the White Witch
-    href: 'history/witch'
-    year: 2015
-  - name: Crisis on Infinite Orlandias
-    href: 'history/crisis'
-    year: 2016
-  - name: School Spirits
-    href: 'history/spirits'
-    year: 2017
-  - name: Seas of Orlandia
-    href: 'history/seas'
-    year: 2018
-  - name: Syndicates of Cyber-Orlandia
-    href: 'history/syndicates'
-    year: 2019
-  - name: King's Ransom
-    href: 'history/kings-ransom'
-    year: 2022
-  - name: Chrono Conflict
-    href: 'history/chrono-conflict'
-    year: 2023
-  - name: High Moon
-    href: 'history/high-moon'
-    year: 2024
-  - name: Darkheart Ritual
-    href: 'history/darkheart-ritual'
-    year: 2025
-
 avatar-ext: 'https://statics.orlandia.talesoforlandia.com/logos/avatar-icon.png'
 
 # --- Footer options --- #
