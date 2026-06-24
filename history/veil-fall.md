@@ -13,6 +13,7 @@ css:
 {:.text-muted.text-center}
 *Illustration by Travis*
 
+{:.clearfix}
 # Prologue
 
 The veil has fallen… and no one is safe.
