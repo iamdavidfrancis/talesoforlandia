@@ -10,10 +10,9 @@ css:
 {:.text-center.col-md-6.col-md-offset-3.col-sm-12}
 [![Tales of Orlandia: Chrono-Conflict](https://statics.orlandia.talesoforlandia.com/past-orlandias/veil-fall/veil-fall-logo-thumb.png)](https://statics.orlandia.talesoforlandia.com/past-orlandias/veil-fall/veil-fall-logo.png)
 
-{:.text-muted.text-center}
+{:.text-muted.text-center.clearfix}
 *Illustration by Travis*
 
-{:.clearfix}
 # Prologue
 
 The veil has fallen… and no one is safe.
