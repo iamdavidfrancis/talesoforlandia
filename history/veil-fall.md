@@ -43,7 +43,7 @@ Who will impress the being and win back Khazridar? And what will it mean for the
 
   <div class="col-md-4 col-sm-12">
     <div class="card">
-      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/veil-fall/factions/the-p.h.d-institute-thumb.png" alt="The P.H.D. Institute">
+      <img class="card-img-top" src="https://statics.orlandia.talesoforlandia.com/past-orlandias/veil-fall/factions/the-p.h.d.-institute-thumb.png" alt="The P.H.D. Institute">
       <div class="card-block">
         <p class="card-subtitle">
           Lockdown protocols engaged. <strong>The P.H.D. (Procure, Harbor, Defend) Institute</strong> devotes itself to the containment of the anomalous. Sawyer Bentley, as Project Director in charge of Khazridar. seeks to reclaim the staff and lock it away so tightly that it will never fall out of safe harbor again.
